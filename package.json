@@ -26,5 +26,9 @@
   },
   "dependencies": {
     "styled-components": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunadao1/react-components-library-example.git"
   }
 }
